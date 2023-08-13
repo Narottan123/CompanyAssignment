@@ -15,8 +15,6 @@ This repository contains the source code for a company website built using React
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
